@@ -1,0 +1,5 @@
+1345201663
+Application	C:/Sites/rails_projects/baycb/config/application.rb	  class Application 
+ApplicationController	C:/Sites/rails_projects/baycb/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/rails_projects/baycb/app/helpers/application_helper.rb	module ApplicationHelper
+Baycb	C:/Sites/rails_projects/baycb/config/application.rb	module Baycb
