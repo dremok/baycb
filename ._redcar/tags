@@ -1,4 +1,4 @@
-1345274382
+1345276100
 About page	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	describe "About page" do
 Application	C:/Sites/rails_projects/baycb/config/application.rb	  class Application 
 ApplicationController	C:/Sites/rails_projects/baycb/app/controllers/application_controller.rb	class ApplicationController 
@@ -12,6 +12,9 @@ StaticPagesHelper	C:/Sites/rails_projects/baycb/app/helpers/static_pages_helper.
 about	C:/Sites/rails_projects/baycb/app/controllers/static_pages_controller.rb	  def about
 help	C:/Sites/rails_projects/baycb/app/controllers/static_pages_controller.rb	  def help
 home	C:/Sites/rails_projects/baycb/app/controllers/static_pages_controller.rb	  def home
-should have the content 'About Us'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the content 'About Us'" do
-should have the content 'Be All You Can Be'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the content 'Be All You Can Be'" do
-should have the content 'Help'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the content 'Help'" do
+should have the h1 'About Us'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the h1 'About Us'" do
+should have the h1 'Be All You Can Be'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the h1 'Be All You Can Be'" do
+should have the h1 'Help'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the h1 'Help'" do
+should have the right title	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the right title" do
+should have the right title	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the right title" do
+should have the right title	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the right title" do
