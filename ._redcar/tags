@@ -1,27 +1,26 @@
-1345380782
+1345451501
 About page	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	describe "About page" do
 Application	C:/Sites/rails_projects/baycb/config/application.rb	  class Application 
 ApplicationController	C:/Sites/rails_projects/baycb/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/rails_projects/baycb/app/helpers/application_helper.rb	module ApplicationHelper
 Baycb	C:/Sites/rails_projects/baycb/config/application.rb	module Baycb
+Contact page	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	describe "Contact page" do
 Help page	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	describe "Help page" do
 Home page	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	describe "Home page" do
 StaticPages	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	describe "StaticPages" do
 StaticPagesController	C:/Sites/rails_projects/baycb/app/controllers/static_pages_controller.rb	class StaticPagesController 
 StaticPagesHelper	C:/Sites/rails_projects/baycb/app/helpers/static_pages_helper.rb	module StaticPagesHelper
-User	C:/Sites/rails_projects/baycb/example_user.rb	class User
 about	C:/Sites/rails_projects/baycb/app/controllers/static_pages_controller.rb	  def about
-email	C:/Sites/rails_projects/baycb/example_user.rb	  attr_accessor :name, :email
-formatted_email	C:/Sites/rails_projects/baycb/example_user.rb	  def formatted_email
+contact	C:/Sites/rails_projects/baycb/app/controllers/static_pages_controller.rb	  def contact
 full_title	C:/Sites/rails_projects/baycb/app/helpers/application_helper.rb	  def full_title(page_title)
 help	C:/Sites/rails_projects/baycb/app/controllers/static_pages_controller.rb	  def help
 home	C:/Sites/rails_projects/baycb/app/controllers/static_pages_controller.rb	  def home
-initialize	C:/Sites/rails_projects/baycb/example_user.rb	  def initialize(attributes = {})
-name	C:/Sites/rails_projects/baycb/example_user.rb	  attr_accessor :name, :email
 should have the h1 'About Us'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the h1 'About Us'" do
 should have the h1 'Be All You Can Be'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the h1 'Be All You Can Be'" do
+should have the h1 'Contact'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the h1 'Contact'" do
 should have the h1 'Help'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the h1 'Help'" do
 should have the right title	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the right title" do
 should have the right title	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the right title" do
 should have the right title	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the right title" do
+should have the title 'Contact'	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should have the title 'Contact'" do
 should not have a custom page title	C:/Sites/rails_projects/baycb/spec/requests/static_pages_spec.rb	it "should not have a custom page title" do

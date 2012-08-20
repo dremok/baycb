@@ -1,3 +1,6 @@
 --- 
-open_files: []
-
+open_files: 
+  - spec/requests/static_pages_spec.rb
+  - config/routes.rb
+  - app/views/layouts/_header.html.erb
+  - app/views/layouts/_footer.html.erb
