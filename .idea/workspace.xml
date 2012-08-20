@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87f96b72-7c10-49e3-a4fc-d82e8df7273d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/support/utilities.rb" />
       <change type="DELETED" beforePath="C:\Sites\rails_projects\baycb\._redcar\lucene\_0.cfs" afterPath="" />
       <change type="DELETED" beforePath="C:\Sites\rails_projects\baycb\._redcar\lucene\_0_1.del" afterPath="" />
       <change type="DELETED" beforePath="C:\Sites\rails_projects\baycb\._redcar\lucene\_0_3.del" afterPath="" />
@@ -60,16 +59,6 @@
       <change type="DELETED" beforePath="C:\Sites\rails_projects\baycb\._redcar\lucene\segments_9" afterPath="" />
       <change type="DELETED" beforePath="C:\Sites\rails_projects\baycb\._redcar\lucene\segments_e" afterPath="" />
       <change type="DELETED" beforePath="C:\Sites\rails_projects\baycb\README.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\rails_projects\baycb\public\index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/._redcar/lucene/segments.gen" afterPath="$PROJECT_DIR$/._redcar/lucene/segments.gen" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/._redcar/lucene_last_updated" afterPath="$PROJECT_DIR$/._redcar/lucene_last_updated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/._redcar/storage/project_loader.yaml" afterPath="$PROJECT_DIR$/._redcar/storage/project_loader.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/._redcar/tags" afterPath="$PROJECT_DIR$/._redcar/tags" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" />
     </list>
     <ignored path="baycb.iws" />
     <ignored path=".idea/workspace.xml" />
